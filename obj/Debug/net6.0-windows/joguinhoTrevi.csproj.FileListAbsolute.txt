@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\joguinhoTrevi\bin\Debug\net6.0-windows\joguinhoTrevi.exe
+C:\Users\disrct\Desktop\joguinhoTrevi\bin\Debug\net6.0-windows\joguinhoTrevi.deps.json
+C:\Users\disrct\Desktop\joguinhoTrevi\bin\Debug\net6.0-windows\joguinhoTrevi.runtimeconfig.json
+C:\Users\disrct\Desktop\joguinhoTrevi\bin\Debug\net6.0-windows\joguinhoTrevi.dll
+C:\Users\disrct\Desktop\joguinhoTrevi\bin\Debug\net6.0-windows\joguinhoTrevi.pdb
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.AssemblyInfo.cs
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.dll
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\refint\joguinhoTrevi.dll
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.pdb
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\joguinhoTrevi.genruntimeconfig.cache
+C:\Users\disrct\Desktop\joguinhoTrevi\obj\Debug\net6.0-windows\ref\joguinhoTrevi.dll

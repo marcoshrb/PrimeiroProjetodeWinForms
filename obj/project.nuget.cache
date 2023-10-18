@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r79Tt86T0zw1k8X5w7AXmPPv0FB3ymKEGZPO4DSX8W+mIK+hQLV8UdxmXM8QQzYxlByz+WhUp5jKoILeOGv6Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disrct\\Desktop\\joguinhoTrevi\\joguinhoTrevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disrct\\.nuget\\packages\\pamella\\1.7.0\\pamella.1.7.0.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\statelylib\\1.3.0\\statelylib.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
